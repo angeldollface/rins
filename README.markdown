@@ -37,6 +37,15 @@ $ rins --sdir your_dir
 $ rins -s your_dir
 ```
 
+## CHANGELOG
+
+### Version 1.0.0
+
+- The Doll Update.
+- Initial release.
+- Initial upload to GitHub.
+- Updated, published, and uploaded under my new name.
+
 ## NOTE :scroll:
 
 - *RINS :hamburger:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
