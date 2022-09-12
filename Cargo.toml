@@ -22,9 +22,9 @@ exclude = [
 ]
 
 [dependencies]
-cleasy = "1.0.0"
 colored = "2.0.0"
 file-serve = "0.1.1"
+cleasy = { git = "https://github.com/angeldollface/cleasy", version = "1.2.0" }
 
 [profile.release]
 strip = true
